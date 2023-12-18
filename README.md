@@ -30,3 +30,5 @@ Using `--name` here explicitly to ensure we are creating and updating the same e
 
 `--prune` will uninstall dependencies that were removed from the previous version of this environment. 
 
+# dsutils library
+The `dsutils` directory contains a `pip`-installable version of a custom data science utilities library. The readme within that directory contains more details about that package. 
