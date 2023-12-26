@@ -2,6 +2,7 @@ name: datasci
 channels:
   - conda-forge
 dependencies:
+  - chardet=5.2.0
   - jupyterlab=4.0.9
   - matplotlib-base=3.8.2
   - numpy=1.26.2
